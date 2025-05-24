@@ -1,7 +1,7 @@
 ## Hi there 👋
-### 🤔 I am Zhang Qing
-### 🌏 China
-### 📫 Master studying
+##### 🤔 I am Zhang Qing
+##### 🌏 China
+##### 📫 Master studying
 
 <!--
 **Eric-zeq/Eric-zeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
